@@ -2,7 +2,7 @@
 You will need: 
 * node-red-node-arduino
 * node-red-dashboard
-* node-red-contrib-lcd20x4-i2c
+* node-red-contrib-lcd20x4-i2c <br>
 You can install these by going to the Node Red menu in the top right corner, then select Manage palette, then go to the Install tab and serch for the above nodes.  When found, there will be a little install button.  You can also install these using `npm install node-red-dashboard` from within you /.node-red/ directory.
 
 You can import this code by going to the Node Red menu in the top right corner, then select Import, then select clipboard (or CTRL I), then paste the code in.
